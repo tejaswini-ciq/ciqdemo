@@ -1,0 +1,17 @@
+*** Settings ***
+Documentation    WARNING! This file has been automatically generated using the Conformiq <Robot Framework Scripter> scripting backend. PLEASE DO NOT EDIT.
+Library    Selenium2Library
+Library    DateTime
+Resource          DemoPrj keywords.txt
+Resource          Conformiq RobotFwk Utils library.txt
+
+*** Variables ***
+
+*** Test Cases ***
+TC_DemoPrj_1
+    Login GUIMappingWithDifferentTech       ""       invalid       abc       invalid
+    Error GUIMappingWithDifferentTech       ""
+TC_DemoPrj_2
+    Login GUIMappingWithDifferentTech       ""       valid       abc       valid
+    GoogleAuthenticate GUIMappingWithDifferentTech       [Don't care]
+    Home GUIMappingWithDifferentTech

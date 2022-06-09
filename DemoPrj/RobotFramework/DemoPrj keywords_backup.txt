@@ -1,0 +1,66 @@
+*** Settings ***
+Documentation    WARNING! This file has been automatically generated using the Conformiq <Robot Framework Scripter> scripting backend. PLEASE DO NOT EDIT.
+Library    Selenium2Library
+Resource          Conformiq RobotFwk Utils library.txt
+*** Keywords ***
+Login GUIMappingWithDifferentTech
+    [Arguments]    ${Password TEXTBOX Verification}    ${UserName TEXTBOX}    ${Company TEXTBOX}    ${Password TEXTBOX}    
+      ${Login Screen-Login ScreenSCREENLogin FormFORMPasswordTEXTBOX_locator}      Load Excel Data    Objects    Login Screen-Login ScreenSCREENLogin FormFORMPasswordTEXTBOX_locator      Locator
+      ${Login Screen-Login ScreenSCREENLogin FormFORMUserNameTEXTBOX_locator}      Load Excel Data    Objects    Login Screen-Login ScreenSCREENLogin FormFORMUserNameTEXTBOX_locator      Locator
+      ${Login Screen-Login ScreenSCREENLogin FormFORMCompanyTEXTBOX_locator}      Load Excel Data    Objects    Login Screen-Login ScreenSCREENLogin FormFORMCompanyTEXTBOX_locator      Locator
+      ${Login Screen-Login ScreenSCREENSign InBUTTON_locator}      Load Excel Data    Objects    Login Screen-Login ScreenSCREENSign InBUTTON_locator      Locator
+
+
+
+    Page Should Contain		${Password TEXTBOX Verification}
+    Wait Until Element Is Visible 		${Login Screen-Login ScreenSCREENLogin FormFORMUserNameTEXTBOX_locator}     5
+    Input Text		${Login Screen-Login ScreenSCREENLogin FormFORMUserNameTEXTBOX_locator}     ${UserName TEXTBOX}
+    Wait Until Element Is Visible 		${Login Screen-Login ScreenSCREENLogin FormFORMCompanyTEXTBOX_locator}     5
+    Input Text		${Login Screen-Login ScreenSCREENLogin FormFORMCompanyTEXTBOX_locator}     ${Company TEXTBOX}
+    Wait Until Element Is Visible 		${Login Screen-Login ScreenSCREENLogin FormFORMPasswordTEXTBOX_locator}     5
+    Input Text		${Login Screen-Login ScreenSCREENLogin FormFORMPasswordTEXTBOX_locator}     ${Password TEXTBOX}
+    Wait Until Element Is Visible 		${Login Screen-Login ScreenSCREENSign InBUTTON_locator}     5
+    Click Element		${Login Screen-Login ScreenSCREENSign InBUTTON_locator}     
+
+
+
+Error GUIMappingWithDifferentTech
+    [Arguments]    ${Password TEXTBOX Verification}    
+      ${Login Screen-Login ScreenSCREENLogin FormFORMPasswordTEXTBOX_locator}      Load Excel Data    Objects    Login Screen-Login ScreenSCREENLogin FormFORMPasswordTEXTBOX_locator      Locator
+
+
+
+    Page Should Contain		${Password TEXTBOX Verification}
+
+
+
+GoogleAuthenticate GUIMappingWithDifferentTech
+    [Arguments]    
+      ${Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMI agreeCHECKBOX_locator}      Load Excel Data    Objects    Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMI agreeCHECKBOX_locator      Locator
+      ${Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMApproveBUTTON_locator}      Load Excel Data    Objects    Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMApproveBUTTON_locator      Locator
+
+
+
+    Element Should Contain		${LoginReq-UserName FIELD_locator}          
+    Element Should Contain		${LoginReq-Password FIELD_locator}          
+    Click Element		${Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMI agreeCHECKBOX_locator}     
+    Wait Until Element Is Visible 		${Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMApproveBUTTON_locator}     5
+    Click Element		${Google Authenticator on Mobile-Google Authenticator on MobileSCREENGoogleNotificationFORMApproveBUTTON_locator}     
+    Element Should Contain		${LoginResponse-Username FIELD_locator}          
+    Element Should Contain		${LoginResponse-Password FIELD 1_locator}          
+    Element Should Contain		${LoginResponse-Role FIELD_locator}          
+    Element Should Contain		${LoginResponse-AccessRights FIELD_locator}          
+
+	# No CITA mapping found for: LoginReq
+	# No CITA mapping found for: LoginResponse
+
+
+Home GUIMappingWithDifferentTech
+
+
+
+
+
+	BuiltIn.No Operation
+
+

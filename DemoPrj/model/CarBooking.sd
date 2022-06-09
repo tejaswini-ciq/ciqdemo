@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.conformiq.creator.structure.dsl="http://www.conformiq.com/emf/15/StructureDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_WfUoYJxIEeylZud4RL98zg" type="Dsl" name="CarBooking.sd" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_YmYbgJxIEeylZud4RL98zg" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_YmdUAJxIEeylZud4RL98zg" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_YmdUAZxIEeylZud4RL98zg" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_9o4oYJxJEeylZud4RL98zg" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_9o4oZpxJEeylZud4RL98zg" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_9o4oZ5xJEeylZud4RL98zg" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_ScahsJxKEeylZud4RL98zg" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ScahspxKEeylZud4RL98zg" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Scahs5xKEeylZud4RL98zg" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_ScahtJxKEeylZud4RL98zg" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="CarBooking.sl#qmldb1212d5a2a849e8a9679bd62a1cf60d"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ScahsZxKEeylZud4RL98zg" x="9" y="124"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_pGiwQJxKEeylZud4RL98zg" type="3013" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_pGiwQpxKEeylZud4RL98zg" type="5014"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_pGiwQ5xKEeylZud4RL98zg" type="5059"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:RadioButtonEnumeration" href="CarBooking.sl#qml876507d22a6e46afa14218fea0ff1179"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pGiwQZxKEeylZud4RL98zg" x="223" y="112" width="76" height="109"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_8xq3EJxKEeylZud4RL98zg" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_8xq3EpxKEeylZud4RL98zg" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_8xq3E5xKEeylZud4RL98zg" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_8xq3FJxKEeylZud4RL98zg" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="CarBooking.sl#qml7296b49bb7094828898da2afd8f6ae50"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8xq3EZxKEeylZud4RL98zg" x="19" y="160"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_B0zkUJxMEeylZud4RL98zg" type="3012" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_B0zkUpxMEeylZud4RL98zg" type="5013"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_B0zkU5xMEeylZud4RL98zg" type="5064"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_B0zkVJxMEeylZud4RL98zg" type="5065"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:DropdownEnumeration" href="CarBooking.sl#qmldebfc07f44e64e53be929be0ee916bd7"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B0zkUZxMEeylZud4RL98zg" x="7" y="208"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_MJC0QJxMEeylZud4RL98zg" type="3013" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_MJMlQZxMEeylZud4RL98zg" type="5014"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_MJMlQpxMEeylZud4RL98zg" type="5059"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:RadioButtonEnumeration" href="CarBooking.sl#qml54a90ff1d83c4950b568ac7b861ebeca"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MJMlQJxMEeylZud4RL98zg" x="19" y="268" width="181" height="85"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_oXzwEJxMEeylZud4RL98zg" type="3008">
+            <children xmi:type="notation:DecorationNode" xmi:id="_oXzwFZxMEeylZud4RL98zg" type="5009"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_oXzwEZxMEeylZud4RL98zg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_oXzwEpxMEeylZud4RL98zg" fontName="Segoe UI"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_oXzwE5xMEeylZud4RL98zg"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="CarBooking.sl#qml7199e804799640e78624dd3f631c2856"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oXzwFJxMEeylZud4RL98zg" x="247" y="280"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_g7euIJxcEey82scW7Mi43Q" type="3013" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_g7euIpxcEey82scW7Mi43Q" type="5014"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_g7euI5xcEey82scW7Mi43Q" type="5059"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:RadioButtonEnumeration" href="CarBooking.sl#qml2f416c54e16446aaa47229e4a7654615"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g7euIZxcEey82scW7Mi43Q" x="31" y="16" width="91" height="90"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ACsPAJxjEey82scW7Mi43Q" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ACsPBJxjEey82scW7Mi43Q" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_ACsPAZxjEey82scW7Mi43Q"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_ACsPApxjEey82scW7Mi43Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="CarBooking.sl#qmlbb27084f39ae4d3293cc315b1d479a4a"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ACsPA5xjEey82scW7Mi43Q" x="241" y="346"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_DdJjsJxjEey82scW7Mi43Q" type="3009">
+            <children xmi:type="notation:DecorationNode" xmi:id="_DdJjtJxjEey82scW7Mi43Q" type="5010"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_DdJjsZxjEey82scW7Mi43Q"/>
+            <styles xmi:type="notation:FillStyle" xmi:id="_DdJjspxjEey82scW7Mi43Q"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:Hyperlink" href="CarBooking.sl#qml7602377e52434d639e7cf972feecdb5e"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DdJjs5xjEey82scW7Mi43Q" x="240" y="384"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_9o4oYZxJEeylZud4RL98zg"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_9o4oYpxJEeylZud4RL98zg" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_9o4oY5xJEeylZud4RL98zg"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_9o4oZJxJEeylZud4RL98zg"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="CarBooking.sl#qml08f477e1e89848d892a31a19e9c8d7c5"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9o4oZZxJEeylZud4RL98zg" x="31" y="16" width="361" height="433"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_YmYbgZxIEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_YmYbgpxIEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_YmYbg5xIEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_YmYbhJxIEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="CarBooking.sl#qml439167b19065411f8264e57175b52bde"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YmYbhZxIEeylZud4RL98zg" x="156" y="48" width="445" height="529"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_Ue5MQJxJEeylZud4RL98zg" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ue5MRpxJEeylZud4RL98zg" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ue5MR5xJEeylZud4RL98zg" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_XU_2sJxJEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_XU_2spxJEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml4178968e0b0a4975b01e7eaa307abc09"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XU_2sZxJEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_YDZNwJxJEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_YDZNwpxJEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml014d104d96fd467aba6aa7d87d7fcc5c"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YDZNwZxJEeylZud4RL98zg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Ue5MSJxJEeylZud4RL98zg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Ue5MSZxJEeylZud4RL98zg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Ue5MQZxJEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Ue5MQpxJEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_Ue5MQ5xJEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Ue5MRJxJEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="CarBooking.sl#qml6ff11cb726844c1b868b67a41182c59e"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ue5MRZxJEeylZud4RL98zg" x="600" y="144"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_b96tIJxKEeylZud4RL98zg" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b96tJpxKEeylZud4RL98zg" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_b96tJ5xKEeylZud4RL98zg" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_dWH2MJxKEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_dWH2MpxKEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml8e04fb5938c6405181dde4fabd0b30fb"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dWH2MZxKEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ehMiMJxKEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_ehMiMpxKEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml71afb9ba6e8c421aa662580f7bad13fb"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ehMiMZxKEeylZud4RL98zg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_b96tKJxKEeylZud4RL98zg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_b96tKZxKEeylZud4RL98zg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_b96tIZxKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_b96tIpxKEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_b96tI5xKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_b96tJJxKEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="CarBooking.sl#qmlb2816fa877c040cd98bf5f6c23f25b13"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b96tJZxKEeylZud4RL98zg" x="44" y="308"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_u4drkJxKEeylZud4RL98zg" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_u4drlpxKEeylZud4RL98zg" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_u4drl5xKEeylZud4RL98zg" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_wVjUoJxKEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_wVjUopxKEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml0efcc2d850114928b177f9443aeca81f"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wVjUoZxKEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zIiZoJxKEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_zIiZopxKEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml3af63374f187490b88b0d04b8f061790"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zIiZoZxKEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_xvtlgJxKEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_xvtlgpxKEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml55072725dbd0464f9d5f8e49a18f058a"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xvtlgZxKEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_K6Y3sJxrEey82scW7Mi43Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_K6Y3spxrEey82scW7Mi43Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml5a0b93b6d2a04111ab3b804aad0b4413"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_K6Y3sZxrEey82scW7Mi43Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_L39TMJxrEey82scW7Mi43Q" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_L39TMpxrEey82scW7Mi43Q" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml8b9b3db0653d429ab57e5aa268de4f6d"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L39TMZxrEey82scW7Mi43Q"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_u4drmJxKEeylZud4RL98zg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_u4drmZxKEeylZud4RL98zg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_u4drkZxKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_u4drkpxKEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_u4drk5xKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_u4drlJxKEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="CarBooking.sl#qmlcf42aa2a48724e6f8b6007c4fa320685"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4drlZxKEeylZud4RL98zg" x="612" y="240"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="__R1twJxKEeylZud4RL98zg" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="__R1txpxKEeylZud4RL98zg" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="__R6mQJxKEeylZud4RL98zg" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_A_UjQJxLEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_A_UjQpxLEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qmlbc26e62e4acb4770b67752f89b6add7f"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A_UjQZxLEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_FSaJEJxLEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FSaJEpxLEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml26d44e8d605343258527e19ce266a799"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FSaJEZxLEeylZud4RL98zg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="__R6mQZxKEeylZud4RL98zg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="__R6mQpxKEeylZud4RL98zg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="__R1twZxKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="__R1twpxKEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="__R1tw5xKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="__R1txJxKEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="CarBooking.sl#qml6160cff8dd6f4a08a60955a340ab2ec2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__R1txZxKEeylZud4RL98zg" x="588" y="360"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_GasKUJxMEeylZud4RL98zg" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_GasKVpxMEeylZud4RL98zg" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GasKV5xMEeylZud4RL98zg" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_IbjO0JxMEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_IbjO0pxMEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml127c2f1b669d4bedb7733019ef2c6d57"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IbjO0ZxMEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JmyS4JxMEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_JmyS4pxMEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml2c5196b36728450a95157f5c94bb7468"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JmyS4ZxMEeylZud4RL98zg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_GasKWJxMEeylZud4RL98zg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_GasKWZxMEeylZud4RL98zg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_GasKUZxMEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_GasKUpxMEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_GasKU5xMEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_GasKVJxMEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="CarBooking.sl#qml7246a51ff9984722aa0b840d3645fd3d"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GasKVZxMEeylZud4RL98zg" x="600" y="444"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_OdgKMJxMEeylZud4RL98zg" type="2005">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Odp7MJxMEeylZud4RL98zg" type="5047"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Odp7MZxMEeylZud4RL98zg" type="7021">
+      <children xmi:type="notation:Shape" xmi:id="_Q-A_IJxMEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Q-A_IpxMEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qml84930c85446c4db0aca94098b14ced64"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q-A_IZxMEeylZud4RL98zg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_TjOt4JxMEeylZud4RL98zg" type="3042" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_TjOt4pxMEeylZud4RL98zg" type="5046"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:EnumerationValue" href="CarBooking.sl#qmlc6f47bc38bb84208aad1071009c58bea"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TjOt4ZxMEeylZud4RL98zg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Odp7MpxMEeylZud4RL98zg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Odp7M5xMEeylZud4RL98zg"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_OdgKMZxMEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_OdgKMpxMEeylZud4RL98zg" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_OdgKM5xMEeylZud4RL98zg"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_OdgKNJxMEeylZud4RL98zg"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Enumeration" href="CarBooking.sl#qmlc7fb04439f02481a8516775ddfb24910"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OdgKNZxMEeylZud4RL98zg" x="588" y="540"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_wq4XgJxiEey82scW7Mi43Q" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_wq4XhpxiEey82scW7Mi43Q" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_wq4Xh5xiEey82scW7Mi43Q" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_FXNkAOWeEey1cvTwMlj8Pw" type="3007">
+        <children xmi:type="notation:DecorationNode" xmi:id="_FXNkBuWeEey1cvTwMlj8Pw" type="5015"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_FXNkB-WeEey1cvTwMlj8Pw" type="7004">
+          <children xmi:type="notation:Shape" xmi:id="_HU6m0OWeEey1cvTwMlj8Pw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_HU6m0uWeEey1cvTwMlj8Pw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_HU6m0-WeEey1cvTwMlj8Pw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="CarBooking.sl#qmlf76a89def93246c698b31cba4b5541a2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HU6m0eWeEey1cvTwMlj8Pw" x="13" y="13"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_JWhSMOWeEey1cvTwMlj8Pw" type="3010" fontName="Segoe UI">
+            <children xmi:type="notation:DecorationNode" xmi:id="_JWh5QOWeEey1cvTwMlj8Pw" type="5011"/>
+            <children xmi:type="notation:DecorationNode" xmi:id="_JWh5QeWeEey1cvTwMlj8Pw" type="5058"/>
+            <element xmi:type="com.conformiq.creator.structure.dsl:TextBox" href="CarBooking.sl#qml9961c927479e40df869810d12ee595be"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JWhSMeWeEey1cvTwMlj8Pw" x="31" y="49"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_FXNkAeWeEey1cvTwMlj8Pw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_FXNkAuWeEey1cvTwMlj8Pw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_FXNkA-WeEey1cvTwMlj8Pw"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_FXNkBOWeEey1cvTwMlj8Pw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Form" href="CarBooking.sl#qml9337f97d524a46978abb889433ce5d13"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FXNkBeWeEey1cvTwMlj8Pw" x="13" y="31" width="264" height="199"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_SCpU0OWeEey1cvTwMlj8Pw" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_SCpU1eWeEey1cvTwMlj8Pw" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_SCpU0eWeEey1cvTwMlj8Pw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_SCpU0uWeEey1cvTwMlj8Pw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_SCpU0-WeEey1cvTwMlj8Pw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="CarBooking.sl#qml48aef514ed34499dbd01388b45680157"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SCpU1OWeEey1cvTwMlj8Pw" x="139" y="247"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_wq4XgZxiEey82scW7Mi43Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_wq4XgpxiEey82scW7Mi43Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_wq4Xg5xiEey82scW7Mi43Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_wq4XhJxiEey82scW7Mi43Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="CarBooking.sl#qml12a9ad073c7e4c66ba5d738cca8ccbff"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wq4XhZxiEey82scW7Mi43Q" x="810" y="108" width="306" height="360"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_z5Ex0JxiEey82scW7Mi43Q" type="2003">
+    <children xmi:type="notation:DecorationNode" xmi:id="_z5Ex1pxiEey82scW7Mi43Q" type="5037"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_z5Ex15xiEey82scW7Mi43Q" type="7003"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_z5Ex0ZxiEey82scW7Mi43Q"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_z5Ex0pxiEey82scW7Mi43Q" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_z5Ex05xiEey82scW7Mi43Q"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_z5Ex1JxiEey82scW7Mi43Q"/>
+    <element xmi:type="com.conformiq.creator.structure.dsl:Screen" href="CarBooking.sl#qmldd664e0079ec447b96157d14ba4c0c5e"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z5Ex1ZxiEey82scW7Mi43Q" x="384" y="600"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_WfUoYZxIEeylZud4RL98zg"/>
+  <element xmi:type="com.conformiq.creator.structure.dsl:Model" href="CarBooking.sl#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_b9_loJxKEeylZud4RL98zg" type="4005" source="_ScahsJxKEeylZud4RL98zg" target="_b96tIJxKEeylZud4RL98zg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_b9_lpJxKEeylZud4RL98zg" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_b9_lpZxKEeylZud4RL98zg"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_b9_lppxKEeylZud4RL98zg" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_b9_loZxKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_b9_lopxKEeylZud4RL98zg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_b9_lo5xKEeylZud4RL98zg" points="[-13, -20, 255, 396]$[-268, -416, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_u4drmpxKEeylZud4RL98zg" type="4006" source="_pGiwQJxKEeylZud4RL98zg" target="_u4drkJxKEeylZud4RL98zg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_u4ikEJxKEeylZud4RL98zg" type="6004">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_u4ikEZxKEeylZud4RL98zg"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_u4ikEpxKEeylZud4RL98zg" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_u4drm5xKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_u4drnJxKEeylZud4RL98zg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_u4drnZxKEeylZud4RL98zg" points="[-16, -20, 300, 390]$[-316, -410, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="__SAF0JxKEeylZud4RL98zg" type="4005" source="_8xq3EJxKEeylZud4RL98zg" target="__R1twJxKEeylZud4RL98zg">
+    <children xmi:type="notation:DecorationNode" xmi:id="__SAF1JxKEeylZud4RL98zg" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="__SAF1ZxKEeylZud4RL98zg"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="__SAF1pxKEeylZud4RL98zg" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="__SAF0ZxKEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="__SAF0pxKEeylZud4RL98zg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__SAF05xKEeylZud4RL98zg" points="[-13, -20, 247, 403]$[-260, -423, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_GasKWpxMEeylZud4RL98zg" type="4005" source="_B0zkUJxMEeylZud4RL98zg" target="_GasKUJxMEeylZud4RL98zg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ga17UJxMEeylZud4RL98zg" type="6003">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_Ga17UZxMEeylZud4RL98zg"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ga17UpxMEeylZud4RL98zg" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_GasKW5xMEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_GasKXJxMEeylZud4RL98zg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GasKXZxMEeylZud4RL98zg" points="[-12, -20, 258, 444]$[-270, -464, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_Odp7NJxMEeylZud4RL98zg" type="4006" source="_MJC0QJxMEeylZud4RL98zg" target="_OdgKMJxMEeylZud4RL98zg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Odp7OJxMEeylZud4RL98zg" type="6004">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_Odp7OZxMEeylZud4RL98zg"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Odp7OpxMEeylZud4RL98zg" y="40"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_Odp7NZxMEeylZud4RL98zg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Odp7NpxMEeylZud4RL98zg" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Odp7N5xMEeylZud4RL98zg" points="[-10, -20, 256, 516]$[-266, -536, 0, 0]"/>
+  </edges>
+</notation:Diagram>

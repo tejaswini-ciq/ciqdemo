@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.conformiq:RequirementRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq="http://www.conformiq.com/EMF/2/Requirements" lastUpdate="1645548656565">
+  <requirementGraphRoots state="UNCHANGED" identifier="com.conformiq.requirements.jira-ciqdemo.atlassian.net-ConformiqDemo-root-req" source="//@requirementProviders.0" externalIdentifier="-1">
+    <name value="JIRA Requirements(ConformiqDemo)"/>
+    <priority/>
+    <subrequirements state="UNCHANGED" identifier="com.conformiq.requirements.jira-ciqdemo.atlassian.net-ConformiqDemo-10003-req" source="//@requirementProviders.0" externalIdentifier="10003">
+      <name value="CON-4: LOGIN"/>
+      <priority/>
+    </subrequirements>
+    <subrequirements state="UNCHANGED" identifier="com.conformiq.requirements.jira-ciqdemo.atlassian.net-ConformiqDemo-10002-req" source="//@requirementProviders.0" externalIdentifier="10002">
+      <name value="CON-3: Login Success"/>
+      <priority/>
+    </subrequirements>
+    <subrequirements state="UNCHANGED" identifier="com.conformiq.requirements.jira-ciqdemo.atlassian.net-ConformiqDemo-10001-req" source="//@requirementProviders.0" externalIdentifier="10001">
+      <name value="CON-2: Login Failure"/>
+      <priority/>
+    </subrequirements>
+  </requirementGraphRoots>
+  <requirementProviders identifier="com.conformiq.requirements.jira" name="JIRA Requirements(ConformiqDemo)">
+    <properties key="&amp;JIRA hostname:" value="ciqdemo.atlassian.net"/>
+    <properties key="&amp;Http proxy domain name:"/>
+    <properties key="&amp;Naming template:" value="${key}: ${fields[&quot;summary&quot;]}"/>
+    <properties key="&amp;Http proxy port:"/>
+    <properties key="&amp;Connect through proxy" value="false"/>
+    <properties key="&amp;Http proxy host:"/>
+    <properties key="&amp;Http proxy username:"/>
+    <properties key="&amp;Http proxy password:" value="$CQPasswordEncoding4$l2Ijtu373I/t75ZnfsJYsQ=="/>
+    <properties key="&amp;Project:" value="ConformiqDemo"/>
+    <properties key="&amp;Http proxy computer name"/>
+    <properties key="&amp;Username:" value="tejaswini.simha@conformiq.com"/>
+    <properties key="&amp;Password:" value="$CQPasswordEncoding4$OwmOeBAqsAfwZgTMJ+ZhyNUZiD8d6t6HJ8qXHgID8POfAGKHjTbyltrOyvpKEnFK"/>
+  </requirementProviders>
+</com.conformiq:RequirementRepository>

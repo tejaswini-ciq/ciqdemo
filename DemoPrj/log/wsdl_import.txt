@@ -1,0 +1,19 @@
+
+Importing WSDL file(s) file:/C:/Tejaswini/Work/Conformiq/Reverse%20Engineering/Parabank.wsdl on 2022-02-23 18:31:12
+Warning: Converted unsupported type "datetime" to string (in transaction.date)
+Warning: Converted unsupported type "decimal" to string (in transaction.amount)
+Warning: Converted unsupported type "datetime" to string (in historyPoint.date)
+Warning: Converted unsupported type "decimal" to string (in historyPoint.closingPrice)
+Warning: Converted unsupported type "decimal" to string (in transfer.amount)
+Warning: Converted unsupported type "decimal" to string (in position.purchasePrice)
+Warning: Converted unsupported type "decimal" to string (in sellPosition.pricePerShare)
+Warning: Converted unsupported type "decimal" to string (in account.balance)
+Warning: Converted unsupported type "decimal" to string (in deposit.amount)
+Warning: Converted unsupported type "decimal" to string (in getTransactionsByAmount.amount)
+Warning: Converted unsupported type "decimal" to string (in requestLoan.amount)
+Warning: Converted unsupported type "decimal" to string (in requestLoan.downPayment)
+Warning: Converted unsupported type "datetime" to string (in loanResponse.responseDate)
+Warning: Converted unsupported type "decimal" to string (in withdraw.amount)
+Warning: Converted unsupported type "decimal" to string (in buyPosition.pricePerShare)
+Generated C:/Tejaswini/Work/Conformiq/DemoPrj/model/wsdl_import.sl
+Generated C:/Tejaswini/Work/Conformiq/DemoPrj/model/wsdl_import.sd

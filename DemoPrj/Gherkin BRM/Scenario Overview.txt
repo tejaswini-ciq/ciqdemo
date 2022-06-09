@@ -1,0 +1,11 @@
+FEATURE : <please specify>
+-----------------------------
+SCENARIO 1: All combinations in UserName = "invalid", Company = "abc", Password = "invalid"
+
+Similar scenarios with different data set
+Case 1:
+All combinations in UserName = "invalid", Company = "abc", Password = "invalid"
+All combinations in UserName = "invalid", Company = "abc", Password = "valid"
+All combinations in UserName = "valid", Company = "abc", Password = "invalid"
+Node Activity 'Home'
+
