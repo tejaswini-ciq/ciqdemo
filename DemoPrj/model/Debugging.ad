@@ -82,6 +82,11 @@
           <clause xmi:type="ad:FunctionCallClause" xmi:id="_h45f8uZbEeyjbPlMzMciwg" methodRef="qml59878548d694436fba922864eb5b3a44_Create_Default_Initialized"/>
         </inputArgs>
       </actionInvocations>
+      <actionInvocations xmi:type="ad:ActionInvocation" xmi:id="_LxRNcOf7EeyAY8vSDHzfbQ" methodRef="name_tag">
+        <inputArgs xmi:type="ad:Expression" xmi:id="_LxRNcef7EeyAY8vSDHzfbQ">
+          <clause xmi:type="ad:StringLiteralClause" xmi:id="_OkVyAOf7EeyAY8vSDHzfbQ" value="LoginSuccess"/>
+        </inputArgs>
+      </actionInvocations>
     </nodes>
     <nodes xmi:type="ad:ActivityNode" xmi:id="_iY6cwOZbEeyjbPlMzMciwg" name="Activity Node 3" controlFlowsIn="_rwBWEOZbEeyjbPlMzMciwg">
       <actionInvocations xmi:type="ad:ActionInvocation" xmi:id="_kkJlQOZbEeyjbPlMzMciwg" methodRef="qml7236ddf7c66a4342b97fa036bfda34cf_Display_Screen">
@@ -144,6 +149,13 @@
           <styles xmi:type="notation:FontStyle" xmi:id="_h45f9eZbEeyjbPlMzMciwg" fontName="Segoe UI"/>
           <styles xmi:type="notation:FillStyle" xmi:id="_h45f9uZbEeyjbPlMzMciwg"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h45f9-ZbEeyjbPlMzMciwg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_LxqPAOf7EeyAY8vSDHzfbQ" type="3001" element="_LxRNcOf7EeyAY8vSDHzfbQ">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Lxq2EOf7EeyAY8vSDHzfbQ" type="5015"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_LxqPAef7EeyAY8vSDHzfbQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_LxqPAuf7EeyAY8vSDHzfbQ" fontName="Segoe UI"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_LxqPA-f7EeyAY8vSDHzfbQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LxqPBOf7EeyAY8vSDHzfbQ"/>
         </children>
         <styles xmi:type="notation:SortingStyle" xmi:id="_flAKt-ZbEeyjbPlMzMciwg"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_flAKuOZbEeyjbPlMzMciwg"/>
